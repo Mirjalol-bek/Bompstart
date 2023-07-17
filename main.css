@@ -1,0 +1,139 @@
+@media screen and (max-width: 428px) {
+  * {
+    overflow: unset;
+  }
+  .design {
+    overflow: hidden;
+  }
+  .design .yyyy {
+    transform: translateX(50px);
+  }
+  .story {
+    width: 100%;
+    background: rgba(234, 244, 245, 0.3333333333);
+  }
+  .story .container {
+    margin-top: 105px;
+    max-width: 95%;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+  }
+  .story .container h3 {
+    -moz-text-align-last: left;
+         text-align-last: left;
+  }
+  .story .container .allInya {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: unset;
+    width: 100px;
+  }
+  .story .container .allInya .India {
+    justify-content: center;
+    align-items: center;
+    gap: 0;
+    margin: 0;
+    padding: 0;
+  }
+  .story .container .allInya .India:nth-child(1) {
+    width: 71px;
+  }
+  .story .container .allInya .India:nth-child(2) {
+    width: 125px;
+  }
+  .story .container .allInya .India:nth-child(3) {
+    width: 103px;
+  }
+  .story .container .allInya .India h4 {
+    text-align: center;
+    color: #000;
+    font-family: Inter;
+    font-size: 29.922px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 100%;
+  }
+  .story .container .allInya .India p {
+    text-align: center;
+    color: #6f6f6f;
+    font-family: Inter;
+    font-size: 15.404px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  .story .container .make h4 {
+    font-style: 11px;
+  }
+  .algo {
+    transform: scale(0.9);
+  }
+  .algo .container {
+    display: flex;
+    flex-direction: column;
+  }
+  .algo .container h1 {
+    font-size: 35px;
+    width: 365px;
+  }
+  .line {
+    transform: scale(0.9);
+  }
+  .line .container .see {
+    transform: translateX(-70px);
+  }
+  .box {
+    border: 10px solid red;
+  }
+  .come {
+    height: unset;
+  }
+  .come .container {
+    height: unset;
+  }
+  .come .container .talk h2 {
+    width: 351px;
+    color: #fff;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+  }
+  .arcu {
+    margin-top: 200px;
+    background-position: center;
+    background-size: cover;
+    height: unset;
+  }
+  .arcu .container {
+    height: unset;
+    width: 349px;
+    flex-direction: column;
+  }
+  .arcu .container .twitter {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+  }
+  .arcu .container .mene {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .arcu .container p {
+    padding: 0;
+    display: block;
+    width: 349px;
+    height: 180px;
+    font-size: 18px;
+  }
+  .arcu .container .ityf {
+    margin-top: 30px;
+  }
+}/*# sourceMappingURL=main.css.map */
